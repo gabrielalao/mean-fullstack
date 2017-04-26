@@ -1,1 +1,1 @@
-8 angular(frontend) pages designed on 6/1/2017
+5 angular(frontend) pages designed on 4/26/2017
